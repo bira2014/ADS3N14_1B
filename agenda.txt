@@ -22,15 +22,3 @@
 24011925;Josiane  
 12021926;Paula 
 11021937;Marcia  
-30 01 1938;Búfalo (Boi)
-29 01 1949;Búfalo (Boi) 
-16 02 1950;Búfalo (Boi)
-15 02 1961;Búfalo (Boi) 
-04 02 1962;Búfalo (Boi)
-03 02 1973;Búfalo (Boi) 
-22 01 1974;Búfalo (Boi)
-20 02 1985;Búfalo (Boi) 
-08 02 1986;Búfalo (Boi)
-07 02 1997;Búfalo (Boi) 
-27 01 1998;Búfalo (Boi)
-26 01 2009;Búfalo (Boi)
